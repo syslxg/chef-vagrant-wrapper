@@ -6,7 +6,7 @@
   "license": "Apache 2.0",
   "platforms": {
     "debian": ">= 6.0",
-    "ubuntu": ">= 12.04",
+    "ubuntu": ">= 12.04"
   },
   "dependencies": {
     "packer": ">= 0.0.0"
