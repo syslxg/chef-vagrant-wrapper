@@ -8,4 +8,4 @@ version          '0.1'
 supports 'debian', '>= 6.0'
 supports 'ubuntu', '>= 12.04'
 
-depends "packer"
+depends 'vagrant'
